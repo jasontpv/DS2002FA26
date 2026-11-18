@@ -41,8 +41,7 @@ DS2002FA26/
     ├── 05-etl-walmart/           <- ETL concepts + Walmart case framing
     ├── 06-midterm-walmart/       <- Midterm project (Walmart Hurricane Analytics)
     ├── 07-visualization/         <- Visualization for decisions
-    ├── 08-capstone-gameday/      <- Capstone (Game Day Pulse)
-    ├── 09-wrap-up/               <- Reflection + what to keep using
+    ├── 08-capstone-acc/          <- Capstone (ACC Reality Check)
     └── 10-Reference/             <- Not tied to a class day; reopen as needed
 ```
 

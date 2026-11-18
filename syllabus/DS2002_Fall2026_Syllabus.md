@@ -96,7 +96,8 @@ Refer to the Canvas calendar for exact due dates. All changes to due dates are r
 - **Election Day (no classes):** Tuesday, November 3, 2026
 - **Thanksgiving Recess:** Wednesday, November 25 – Sunday, November 29, 2026
 - **Courses end:** Tuesday, December 8, 2026
-- **Final Exams:** December 10–18, 2026 — *this course has no sit-down final; projects and presentations take its place.*
+- **Last class meeting:** Monday, December 7, 2026 (wrap-up lecture)
+- **Final Exams:** December 10–18, 2026 — *this course has no sit-down final. The capstone, including a recorded team presentation, is due Friday, December 18 at 11:59pm ET in its place.*
 
 ### Weekly Schedule
 
@@ -118,12 +119,13 @@ Friday labs are released each Friday and completed asynchronously. Recommended: 
 | 10 | Oct 26–30 | Midterm Clinic: Cleaning & Joins | Midterm Clinic: Analysis & Charts | Midterm Progress (Lab 10) |
 | 11 | Nov 2–6 | Midterm Presentations / Peer Feedback | Reflection: What Broke, What Mattered | **Midterm Due** |
 | 12 | Nov 9–13 | Visualization for Decisions (not Dashboards) | Critique + Redesign Studio | Lab 11: Visualization Challenge |
-| 13 | Nov 16–20 | **Capstone** Design & Scoping | Capstone Data Acquisition Plan | Lab 12: Proposal + Pipeline Setup |
-| 14 | Nov 23 | Capstone Workshop (Mon only) | *Thanksgiving Recess* | *No lab* |
-| 15 | Nov 30–Dec 4 | Capstone Analysis Clinic | Presentation Prep | Capstone Checkpoint (Lab 13) |
-| 16 | Dec 7 | Wrap-Up + What to Keep Using | *(Term ends Tue Dec 8)* | **Capstone Due + Presentations** |
+| 13 | Nov 16–20 | *(Mon Nov 16 met under the earlier capstone plan)* | **Capstone Kickoff + First Pulls** (capstone launches Wed Nov 18) | Check-in: Proposal + Pipeline Setup *(not graded)* |
+| 14 | Nov 23 | *No class.* Team check-in notebook | *Thanksgiving Recess* | *No lab* |
+| 15 | Nov 30–Dec 4 | Analysis Clinic: SQL in SQLite | Building and Publishing Your API | Check-in: Capstone Progress Check *(not graded)* |
+| 16 | Dec 7 | Wrap-Up Lecture (last class meeting) | *(Term ends Tue Dec 8)* | *No lab* |
+| Finals | Dec 18 | | | **Capstone Due, Fri Dec 18, 11:59pm ET** (notebook, database, API, recorded presentation) |
 
-*Presentation days may slide between Weeks 15–16 as project timelines firm up.*
+*Capstone presentations are recorded by each team and submitted with the project on Dec 18; there are no in-class capstone presentations.*
 
 ---
 
@@ -133,9 +135,9 @@ Friday labs are released each Friday and completed asynchronously. Recommended: 
 
 | Component | Percentage | Notes |
 |-----------|-----------|-------|
-| **Weekly Labs** | **40%** | Released each Friday; you complete them on your own. About 13 over the semester. These are your main weekly practice — budget time accordingly. |
+| **Weekly Labs** | **40%** | Released each Friday; you complete them on your own. Eleven over the semester (Labs 01–11); the capstone weeks have ungraded check-ins instead. These are your main weekly practice — budget time accordingly. |
 | **Midterm Project** (Walmart Hurricane Analytics) | **25%** | Group project (2–4), ~3 weeks. |
-| **Capstone Project** (Game Day Pulse) | **30%** | Group project (3–4), ~4 weeks, includes a presentation. |
+| **Capstone Project** (ACC Reality Check) | **30%** | Group project (3–4), launches Nov 18. One graded submission, due Fri Dec 18 at 11:59pm ET, including a recorded eight-minute team presentation. |
 | **Class Participation** | **5%** | Studio breakout checkpoints submitted individually in Canvas. See below. |
 
 ### Class Participation (5%)
@@ -151,7 +153,7 @@ Each **Wednesday studio** ends with a short **breakout checkpoint**:
 
 **How it's graded:** mostly **completion**. Submit something plausibly tied to that day's studio and you get credit for that week. TAs spot-check; you are not graded on being loud or extroverted.
 
-**Over the term:** **13** checkpoint opportunities. Submit **10** for full participation credit. Miss a few — no problem. Weeks with no studio meeting (e.g. Thanksgiving) do not count.
+**Over the term:** **11** checkpoint opportunities, in weeks 2 through 12. Submit **10** for full participation credit. The capstone studios on Nov 18 and Dec 2 do not have checkpoints, and weeks with no studio meeting (e.g. Thanksgiving) do not count.
 
 Collaborate in the room; **submit on your own.**
 
